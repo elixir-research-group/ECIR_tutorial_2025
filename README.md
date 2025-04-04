@@ -1,1 +1,1 @@
-# ECIR_tutorial_2025
+# ECIR Tutorial on Explainable IR and Retrieval Augmented Generation
